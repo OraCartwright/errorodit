@@ -1,0 +1,13 @@
+{
+  "name": "errorodit",
+  "devDependencies": {
+    "lerna": "^3.22.1"
+  },
+  "author": "IssacMayert",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/OraCartwright/errorodit.git"
+  },
+  "homepage": "https://github.com/OraCartwright/errorodit.git",
+  "version": "1.0.0"
+}
